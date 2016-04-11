@@ -1,4 +1,5 @@
-uml fajlovi svi treba da budu u jednom mdl projektu
-vizija sistema je sad dobra, zahtevi su detaljni, ali specifikacija treba da se ispravi
-jer treba svaki razlozen zahtev da se opise. Vi  imate u dijagramu "dodavanje pitanja" a dole nemate opis tog use case-a.
-u specifikaciji ne može da se opisuje više zahteva odjednom, kao npr. kreiranje i brisanje, vec odvojeno.
+define project 2-2
+predlog projekta 2-2
+raspored aktivnosti 2-2
+vizija sistema 3-3
+specifikacija zahteva 3.5-5 - još uvek nisu opisani svi slucajevi korišcenja koji su navedeni gore u uml dijagramu
