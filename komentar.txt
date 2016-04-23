@@ -1,0 +1,5 @@
+define project 2-2
+predlog projekta 2-2
+raspored aktivnosti 2-2
+vizija sistema 3-3
+specifikacija zahteva 3.5-5 - još uvek nisu opisani svi slucajevi korišcenja koji su navedeni gore u uml dijagramu
